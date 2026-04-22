@@ -1,0 +1,5 @@
+{
+  "name": "无人机飞行计划管理系统",
+  "description": "无人机飞行计划全生命周期管理，包括创建、审批、实时监控及数据分析",
+  "requestFramePermissions": []
+}
